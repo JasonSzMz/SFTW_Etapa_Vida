@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+50
+'Ingresa la edad para determinar la etapa de vida'
+5
+1
+4
+edad
+7
+0
+1
+19
+edad>=0 and edad<=3
+13
+4
+1
+13
+'Etapa: Bebe'
+13
+7
+0
+1
+20
+edad>=4 and edad<=12
+13
+4
+1
+13
+'Etapa: Niño'
+13
+7
+0
+1
+20
+edad>=13 and edad<18
+13
+4
+1
+20
+'Etapa: Adolescente'
+13
+7
+0
+1
+8
+edad>=18
+13
+4
+1
+15
+'Etapa: Adulto'
+13
+1
